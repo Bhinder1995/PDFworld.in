@@ -38,6 +38,20 @@ PDFWorld currently provides 30+ tools including:
 - Extract Pages
 
 More tools are added regularly.
+## Tech Stack
+
+PDFWorld is built using modern web technologies:
+
+- JavaScript
+- Web APIs
+- Service Workers
+- Client-side PDF processing
+
+Most tools run entirely in the browser without uploading files.
+
+## Feedback
+
+If you have suggestions for new tools or improvements, feel free to open an issue or share feedback.
 
 See the tools here:
 
