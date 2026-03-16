@@ -39,8 +39,6 @@ PDFWorld currently provides 30+ tools including:
 
 More tools are added regularly.
 
-## Screenshots
-
 See the tools here:
 
 https://pdfworld.in
