@@ -1,6 +1,6 @@
 # PDFworld.in – Free, Private Online PDF Tools (No Uploads Required)
 
-> PDFworld is a browser-based PDF toolkit with 60+ free tools — including AI chat, OCR, compression, translation, and conversion — that process files entirely on your device without uploading them to any server.
+> PDFworld is a browser-based PDF toolkit with 50+ free tools — including AI chat, OCR, compression, translation, and conversion — that process files entirely on your device without uploading them to any server.
 
 🌐 **Website**: [pdfworld.in](https://pdfworld.in)
 
