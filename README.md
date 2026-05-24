@@ -8,7 +8,7 @@
 
 ## About PDFworld
 
-PDFworld is a free, privacy-first document platform offering 60+ PDF and AI-powered tools that run entirely inside your browser. Unlike traditional cloud PDF editors, PDFworld processes files using client-side WebAssembly and browser memory — your documents never leave your device.
+PDFworld is a free, privacy-first document platform offering 50+ PDF and AI-powered tools that run entirely inside your browser. Unlike traditional cloud PDF editors, PDFworld processes files using client-side WebAssembly and browser memory — your documents never leave your device.
 
 Built for students, job seekers, professionals, and researchers across India and globally, PDFworld supports government form requirements, multilingual workflows, and AI-ready document conversion — all without signups, paywalls, or file uploads.
 
