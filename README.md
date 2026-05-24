@@ -13,7 +13,7 @@ PDFworld is a free, privacy-first document platform offering 60+ PDF and AI-powe
 Built for students, job seekers, professionals, and researchers across India and globally, PDFworld supports government form requirements, multilingual workflows, and AI-ready document conversion — all without signups, paywalls, or file uploads.
 
 **Key facts:**
-- 60+ tools available free of charge
+- 50+ tools available free of charge
 - No file uploads for most tools
 - No account creation required
 - No watermarks or daily limits
@@ -37,7 +37,7 @@ Built for students, job seekers, professionals, and researchers across India and
 
 ---
 
-## Available Tools (60+)
+## Available Tools (50+)
 
 ### 🤖 AI & Smart Tools
 - **Ask Your PDF** – Chat with any PDF or Word document using AI
